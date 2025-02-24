@@ -1,0 +1,476 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "version": 1,
+  "newProjectRoot": "projects",
+  "projects": {
+    "acro-companion": {
+      "root": "",
+      "sourceRoot": "src",
+      "projectType": "application",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:application",
+          "options": {
+            "outputPath": {
+              "base": "dist"
+            },
+            "index": "src/index.html",
+            "tsConfig": "src/tsconfig.app.json",
+            "polyfills": ["./src/polyfills.ts"],
+            "stylePreprocessorOptions": {
+              "includePaths": ["", "."]
+            },
+            "assets": [
+              "src/assets",
+              "src/favicon.ico",
+              "src/sitemap.xml",
+              "src/robots.txt",
+              "src/manifest.webmanifest",
+              "src/firebase-messaging-sw.js",
+              "src/sw-master.js"
+            ],
+            "styles": [
+            ],
+            "serviceWorker": "configs/ngsw-config.json",
+            "allowedCommonJsDependencies": [
+              "file-saver",
+              "core-js",
+              "canvg",
+              "html2canvas",
+              "dompurify",
+              "color",
+              "pako",
+              "deepcopy",
+              "x2js",
+              "polylabel",
+              "bowser",
+              "secure-ls",
+              "jspreadsheet-ce",
+              "jszip",
+              "raf",
+              "rgbcolor",
+              "qrcode",
+              "quill-delta",
+              "fast-xml-parser",
+              "es6-promise-pool"
+            ],
+            "extractLicenses": false,
+            "sourceMap": true,
+            "optimization": false,
+            "namedChunks": true,
+            "browser": "src/main.ts"
+          },
+          "configurations": {
+            "fake_production": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "80kb"
+                }
+              ],
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ]
+            },
+            "env-e1-as-dev": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "80kb"
+                }
+              ],
+              "outputHashing": "none",
+              "aot": false,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/env-e1-as-dev.ts"
+                }
+              ]
+            },
+            "env-e2-as-dev": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "80kb"
+                }
+              ],
+              "outputHashing": "none",
+              "aot": false,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/env-e2-as-dev.ts"
+                }
+              ]
+            },
+            "env-e3-as-dev": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "80kb"
+                }
+              ],
+              "outputHashing": "none",
+              "aot": false,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/env-e3-as-dev.ts"
+                }
+              ]
+            },
+            "env-e4-as-dev": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "80kb"
+                }
+              ],
+              "outputHashing": "none",
+              "aot": false,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/env-e4-as-dev.ts"
+                }
+              ]
+            },
+            "env-t-as-dev": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "80kb"
+                }
+              ],
+              "outputHashing": "none",
+              "aot": false,
+              "extractLicenses": false,
+              "sourceMap": true,
+              "optimization": true,
+              "namedChunks": true,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/env-t-as-dev.ts"
+                }
+              ]
+            },
+            "env-tx-as-dev": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "80kb"
+                }
+              ],
+              "outputHashing": "none",
+              "aot": false,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/env-tx-as-dev.ts"
+                }
+              ]
+            },
+            "env-ci-win": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "80kb"
+                }
+              ],
+              "outputHashing": "none",
+              "aot": true,
+              "sourceMap": false,
+              "optimization": false,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/ci-in-test-env.ts"
+                }
+              ]
+            },
+            "env-p-as-dev": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "80kb"
+                }
+              ],
+              "outputHashing": "none",
+              "aot": false,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/env-p-as-dev.ts"
+                }
+              ]
+            },
+            "env-old-p-as-dev": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb"
+                }
+              ],
+              "outputHashing": "none",
+              "aot": false,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/env-old-p-as-dev.ts"
+                }
+              ]
+            },
+            "env-e1-as-prod": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "80kb"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.e1.ts"
+                }
+              ]
+            },
+            "env-e2-as-prod": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "80kb"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.e2.ts"
+                }
+              ]
+            },
+            "env-e3-as-prod": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "80kb"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.e3.ts"
+                }
+              ]
+            },
+            "env-e4-as-prod": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "80kb"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.e4.ts"
+                }
+              ]
+            },
+            "env-t-as-prod": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "80kb"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.test.ts"
+                }
+              ]
+            },
+            "env-p-as-prod": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "80kb"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ]
+            },
+            "env-old-p-as-prod": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.old.prod.ts"
+                }
+              ]
+            },
+            "production": {
+              "budgets": [
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "80kb"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ]
+            }
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "buildTarget": "acro-companion:build"
+          },
+          "configurations": {
+            "env-t": {
+              "buildTarget": "acro-companion:build:env-t-as-dev"
+            },
+            "env-tx": {
+              "buildTarget": "acro-companion:build:env-tx-as-dev"
+            },
+            "env-ci-win": {
+              "buildTarget": "acro-companion:build:env-ci-win"
+            },
+            "env-p": {
+              "buildTarget": "acro-companion:build:env-p-as-dev"
+            },
+            "env-old-p": {
+              "browserTarget": "acro-companion:build:env-old-p-as-dev"
+            },
+            "env-e1": {
+              "buildTarget": "acro-companion:build:env-e1-as-dev"
+            },
+            "env-e2": {
+              "buildTarget": "acro-companion:build:env-e2-as-dev"
+            },
+            "env-e3": {
+              "buildTarget": "acro-companion:build:env-e3-as-dev"
+            },
+            "env-e4": {
+              "buildTarget": "acro-companion:build:env-e4-as-dev"
+            },
+            "fake_production": {
+              "buildTarget": "acro-companion:build:production"
+            },
+            "old-production": {
+              "browserTarget": "acro-companion:build:old-production"
+            },
+            "production": {
+              "buildTarget": "acro-companion:build:production"
+            }
+          }
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "buildTarget": "acro-companion:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-builders/jest:run",
+          "options": {
+            "no-cache": true,
+            "configPath": "./jest.config.js",
+            "reporters": ["jest-junit"]
+          }
+        },
+        "lint": {
+          "builder": "@angular-eslint/builder:lint",
+          "options": {
+            "lintFilePatterns": ["src/**/*.ts", "src/**/*.html"]
+          }
+        }
+      }
+    },
+    "acro-companion-e2e": {
+      "root": "",
+      "sourceRoot": "",
+      "projectType": "application",
+      "architect": {
+        "e2e": {
+          "builder": "@angular-devkit/build-angular:protractor",
+          "options": {
+            "protractorConfig": "./protractor.conf.js",
+            "devServerTarget": "acro-companion:serve"
+          }
+        }
+      }
+    }
+  },
+  "schematics": {
+    "@schematics/angular:component": {
+      "prefix": "ac",
+      "style": "scss"
+    },
+    "@schematics/angular:directive": {
+      "prefix": "ac"
+    }
+  },
+  "cli": {
+    "analytics": "f05c8af0-e401-4565-b034-663f4b751d26",
+    "schematicCollections": ["@angular-eslint/schematics"]
+  }
+}

@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c51074d6-304c-4945-a40d-fec266d9e8a7" name="Changes" comment="further stripdown" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LanderBeeuwsaert&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LanderBeeuwsaert/scheduler-notify-issue.git&quot;,
+    &quot;accountId&quot;: &quot;731993bb-beb6-49a0-9241-82da94dada8f&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+    <dismissed value="$PROJECT_DIR$/../supply-chain-intelligence-platform-mvp/package.json" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2RPPr3CncYVX4WB3lmbNVEHmQBg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Playwright.Acro Competition Sheet Approval.executor": "Run",
+    "Playwright.Acro Competition Sheet Overview.Assert Sheet Search Reloads Automatically.executor": "Debug",
+    "Playwright.Acro Competition Sheet Overview.Search First Sheet And Correct.executor": "Debug",
+    "Playwright.Acro Competition Sheet Overview.executor": "Run",
+    "Playwright.Acro Competition Test Suite.Check If Changing Panels Changes Judge Panels(false).executor": "Run",
+    "Playwright.Acro Competition Test Suite.Check Score Tests.Check Score Is Correct After Moving Exercise.executor": "Run",
+    "Playwright.Acro Tariff Sheets Individuals.executor": "Run",
+    "Playwright.Admin Acro Competition Sheet Flow.Admin Go to Correction For First Submitted Sheet.executor": "Debug",
+    "Playwright.Admin Acro Competition Sheet Flow.Correct Sheet Deep Linking With Coach.executor": "Run",
+    "Playwright.Admin Acro Competition Sheet Flow.Correct Sheet Deep Linking Without Coach.executor": "Run",
+    "Playwright.Admin Acro Competition Sheet Flow.executor": "Run",
+    "Playwright.Advanced Registrations Import Auto Numbering Testsuite.Import registration should fail if there imports blocking errors.executor": "Debug",
+    "Playwright.Advanced Registrations Import Auto Numbering Testsuite.Tests that need to import a registration.Change category of team 1116A.executor": "Run",
+    "Playwright.Advanced Registrations Import Auto Numbering Testsuite.Tests that need to import a registration.Import registration succeed after adding auto numbers to comp admin levels.executor": "Debug",
+    "Playwright.Advanced Registrations Import Auto Numbering Testsuite.Tests that need to import a registration.executor": "Debug",
+    "Playwright.Advanced Registrations Import Auto Numbering Testsuite.executor": "Run",
+    "Playwright.Advanced Registrations Import Import Into Two Competitions Testsuite.executor": "Run",
+    "Playwright.Advanced Registrations Import Normal Crud Testsuite.executor": "Run",
+    "Playwright.Advanced Registrations Import Testsuite.executor": "Run",
+    "Playwright.Advanced Registrations Navigation Test Suite.executor": "Run",
+    "Playwright.Advanced Registrations Organisation Admin Side Testsuite.executor": "Run",
+    "Playwright.Advanced Registrations Visible For Registrations Testsuite.executor": "Run",
+    "Playwright.Authentication Testsuite.executor": "Run",
+    "Playwright.Automated Scores And Rankings Hall Screens Testsuite.executor": "Run",
+    "Playwright.Balance Pairs.Seniors WP Balance.executor": "Run",
+    "Playwright.Coach Acro Competition Sheet Flow.executor": "Run",
+    "Playwright.Competition Registration Testsuite.executor": "Run",
+    "Playwright.Controller Manual Overrides Hall Screens Testsuite.Manual Overrides.Sponsors View Manual Override.executor": "Run",
+    "Playwright.Controller Manual Overrides Hall Screens Testsuite.executor": "Run",
+    "Playwright.Create New User And Reset Password Flow Testsuite.executor": "Run",
+    "Playwright.Create New User Unhappy Path Flow Testsuite.Verify Email With Wrong Verified User.executor": "Run",
+    "Playwright.Create New User Unhappy Path Flow Testsuite.executor": "Run",
+    "Playwright.Create Organisation Dialog Testsuite.Check If Acro Stuff Appears When Editing Trampoline Competition.executor": "Debug",
+    "Playwright.Current Exercise Loop Screen Hall Screens Testsuite.executor": "Run",
+    "Playwright.Dj Judge Sheet With Ac Scoring.Judge Exercise and Send CJP Scores and Refresh.executor": "Run",
+    "Playwright.Dj Judge Sheet With Ac Scoring.executor": "Run",
+    "Playwright.Dj Judge Sheet With Dynamic OR.executor": "Run",
+    "Playwright.Dj Judge Sheet Without Ac Scoring.Approved Sheet.Judge, send cjp scores and refresh new exercise.executor": "Run",
+    "Playwright.Dj Judge Sheet Without Ac Scoring.executor": "Run",
+    "Playwright.Dj Judging View Kiss Cry.executor": "Run",
+    "Playwright.Dynamic Exercise.Seniors MXP Dynamic.pairsExample1_1.executor": "Run",
+    "Playwright.Dynamic Exercise.executor": "Run",
+    "Playwright.Exercise Rankings Config Hall Screens Testsuite.executor": "Run",
+    "Playwright.Extended Balance Group.executor": "Run",
+    "Playwright.Extended Balance Pairs.executor": "Run",
+    "Playwright.Extended Dynamic Exercise.executor": "Run",
+    "Playwright.Generic Competition Administration Happy Path Test suite.Rhythmic Happy Path.executor": "Run",
+    "Playwright.Generic Competition Administration Happy Path Test suite.executor": "Run",
+    "Playwright.Generic Competition Administration Test suite.Setup competitions to change between them.Change between competitions inside the teams tab and verify URL.executor": "Run",
+    "Playwright.Generic Competition Administration Test suite.executor": "Run",
+    "Playwright.Generic File Dialog Testsuite.executor": "Run",
+    "Playwright.Hall Screen Shows New Score Testsuite.executor": "Run",
+    "Playwright.Judging View Public.Set Up Public View.executor": "Run",
+    "Playwright.Judging View Public.executor": "Run",
+    "Playwright.Level Selector Testsuite.executor": "Run",
+    "Playwright.Live Competitions Navigation Logged In Desktop Test Suite.Website Navigation From Collaborations To Live Competitions.Navigate From Collaborations To Not Visible Competition.executor": "Run",
+    "Playwright.Live Competitions Navigation Logged In Desktop Test Suite.executor": "Run",
+    "Playwright.Live Competitions Navigation Not Logged In Desktop Test Suite.executor": "Run",
+    "Playwright.Live Competitions Navigation Specific Unhappy Deep Links Testsuite.executor": "Run",
+    "Playwright.Live Schedule Test Suite.executor": "Run",
+    "Playwright.Live Starting Order Desktop Test Suite.executor": "Run",
+    "Playwright.Loops Overridden By Manual Overrides Hall Screens Testsuite.executor": "Run",
+    "Playwright.Maximally changed compulsory test suite.executor": "Run",
+    "Playwright.Membership Registrations Import Acro Auto Numbering Testsuite.Import registration should fail if auto numbering is enabled but levels dont have number.executor": "Run",
+    "Playwright.Membership Registrations Import Acro Auto Numbering Testsuite.Tests that need to add auto numbers to comp admin levels.Import registration after adding levels.executor": "Run",
+    "Playwright.Membership Registrations Import Acro Auto Numbering Testsuite.Tests that need to add auto numbers to comp admin levels.Importing registration approved a few days before should update updatedOn.executor": "Run",
+    "Playwright.Membership Registrations Import Acro Auto Numbering Testsuite.Tests that need to add auto numbers to comp admin levels.Refreshing the page during import after removing a team shouldn't crash the live starting order.executor": "Run",
+    "Playwright.Membership Registrations Import Acro Auto Numbering Testsuite.Tests that need to add auto numbers to comp admin levels.Tests that need to change the category of team1116A.Reimport registration with unique team coach email changed should succeed.executor": "Run",
+    "Playwright.Membership Registrations Import Acro Auto Numbering Testsuite.Tests that need to add auto numbers to comp admin levels.Tests that need to change the category of team1116A.Test that need to change team1116A coach email.Tests that need to change gymnast data.Delete team gymnast and judge and perform checks.executor": "Run",
+    "Playwright.Membership Registrations Import Acro Auto Numbering Testsuite.executor": "Run",
+    "Playwright.Membership Registrations Import Acro Blocks Testsuite.Tests that need to add auto numbers to comp admin levels.Tests that need to change gymnast data.Tests that need to change the gymnasts level.Tests that need to delete the team and gymnasts.Tests that need to make that the individual gymnast is also a team gymnast.Tests that need to make that the team and individual gymnast becomes only a team gymnast.Check for when team and individual gymnast become only team gymnast.executor": "Run",
+    "Playwright.Membership Registrations Import Acro Blocks Testsuite.executor": "Run",
+    "Playwright.Membership Registrations Import Generic Competitions Testsuite.executor": "Run",
+    "Playwright.Navigation Dashboard Screens Testsuite.executor": "Run",
+    "Playwright.Next Exercise Loop Screen Hall Screens Testsuite.Next Exercises Order With Panel Going To Previous Exercise.executor": "Run",
+    "Playwright.Next Exercise Loop Screen Hall Screens Testsuite.executor": "Run",
+    "Playwright.Public Live Competition Mobile Test Suite.executor": "Run",
+    "Playwright.Public Live Competition Not Logged In Desktop Test Suite.Enable Replay Button Navigate To Livestream And Assert Replay Button.executor": "Run",
+    "Playwright.Public Live Competition Not Logged In Desktop Test Suite.executor": "Run",
+    "Playwright.Ranking Automatic Display Loop Testsuite.executor": "Run",
+    "Playwright.Ranking Desktop Test Suite.Select WAG Competition.executor": "Run",
+    "Playwright.Ranking Desktop Test Suite.Tests score for pass 1.Remove Pass 2 Exercises From Exercises Of One Specification And Reload.Select Filters And Assert Disabled Options.executor": "Run",
+    "Playwright.Ranking Desktop Test Suite.Tests score for pass 1.Remove Pass 2 Exercises From Exercises Of One Specification And Reload.executor": "Run",
+    "Playwright.Ranking Desktop Test Suite.executor": "Run",
+    "Playwright.Ranking Mobile Test Suite.executor": "Run",
+    "Playwright.Scoring Judge Selection Overview Testsuite.Change panel composition for for two panels and assert the correct buttons are shown.executor": "Run",
+    "Playwright.Scoring Navigation TestSuite.Switch between competitions in display controller.executor": "Run",
+    "Playwright.Scoring Navigation TestSuite.executor": "Run",
+    "Playwright.Screens With Automatic Loops Testsuite.executor": "Run",
+    "Playwright.Should cover all action details functionalities, create, update, delete and comment.Post new comment on an action detail.executor": "Run",
+    "Playwright.URL navigation.When navigating to default URL, the nine-cell page is loaded.executor": "Run",
+    "Playwright.URL navigation.unit test test.executor": "Run",
+    "Playwright.URL navigation.unit test test2.executor": "Run",
+    "Playwright.Website Navigation Between Competitions TestSuite.executor": "Run",
+    "Playwright.Website Navigation Live Competitions Test Suite.executor": "Run",
+    "Playwright.Website Navigation Logged In Developer Sidebar TestSuite.executor": "Run",
+    "Playwright.Website Navigation Logged In Login Unhappy Path TestSuite.executor": "Run",
+    "Playwright.Website Navigation Logged In Organisation Sidebar Testsuite.Tests with a user that is a manager.Navigate and deeplink to judge and sheet overview.executor": "Run",
+    "Playwright.Website Navigation Logged In Organisation Sidebar Testsuite.Tests with a user that is a manager.Navigate and deeplink to scoring judge overview.executor": "Run",
+    "Playwright.Website Navigation Logged In Organisation Sidebar Testsuite.Tests with a user that is a manager.Tests that need to open organisation tree.Assert display controller and setup in different organisations.executor": "Run",
+    "Playwright.Website Navigation Logged In Organisation Sidebar Testsuite.executor": "Run",
+    "Playwright.Website Navigation Logged In Organisation Unhappy Path TestSuite.executor": "Run",
+    "Playwright.advanced-registrations-import-normal-crud-testsuite.spec.ts.executor": "Run",
+    "Playwright.testSuiteName.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "lb__upgrade__ngfire__find__notify__scheduler__issue__v2",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/lander/projects/notify-scheduler-issue",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "C:/lander/projects/supply-chain-intelligence-platform-mvp/node_modules/jest",
+    "nodejs_package_manager_path": "npm",
+    "prettier.import.notification.dismissed": "true",
+    "prettierjs.PrettierConfiguration.Package": "C:\\lander\\projects\\acro-companion\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "C:\\lander\\projects\\notify-scheduler-issue\\node_modules\\typescript\\lib",
+    "ts.rename.search.for.dynamic.occurrences": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\lander\projects\acro-companion\src\app\tumbling-create-sheet" />
+      <recent name="C:\lander\projects\acro-companion\src\app\organisation-admin" />
+      <recent name="C:\lander\projects\acro-companion\shared\services\patchers\user-model-patchers" />
+      <recent name="C:\lander\projects\acro-companion\src\app\core\services" />
+      <recent name="C:\lander\projects\acro-companion\src\app\core\directives" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\lander\projects\acro-companion\src\app\sidebar\content-management-sidebar\content-management-sidebar-components" />
+      <recent name="C:\lander\projects\acro-companion\src\app" />
+      <recent name="C:\lander\projects\acro-companion\src\app\profile" />
+      <recent name="C:\lander\projects\acro-companion\src\app\demo-admin" />
+      <recent name="C:\lander\projects\supply-chain-intelligence-platform-mvp\libs\state\src\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Acro Tariff Sheets Individuals" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/e2e-testing/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$/e2e-testing" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/e2e-testing/playwright-test-testsuites/tariff-sheet-creation-tests/individuals-testsuite.spec.ts" />
+      <test-names>
+        <test-name value="Acro Tariff Sheets Individuals" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Balance Pairs.Seniors WP Balance" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/e2e-testing/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$/e2e-testing" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/e2e-testing/playwright-test-testsuites/tariff-sheet-creation-tests/balance-pairs-testsuite.spec.ts" />
+      <test-names>
+        <test-name value="Balance Pairs" />
+        <test-name value="Seniors WP Balance" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Dj Judge Sheet With Ac Scoring" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/e2e-testing/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$/e2e-testing" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/e2e-testing/playwright-test-testsuites/acro-rtj-tests/dj-judge-sheet-with-ac-scoring-testsuite.spec.ts" />
+      <test-names>
+        <test-name value="Dj Judge Sheet With Ac Scoring" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Level Selector Testsuite" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/e2e-testing/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$/e2e-testing" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/e2e-testing/playwright-test-testsuites/custom-components-tests/level-selector-testsuite.spec.ts" />
+      <test-names>
+        <test-name value="Level Selector Testsuite" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Maximally changed compulsory test suite" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/e2e-testing/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$/e2e-testing" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/e2e-testing/playwright-test-testsuites/tariff-sheet-creation-tests/compulsory-testsuite.spec.ts" />
+      <test-names>
+        <test-name value="Maximally changed compulsory test suite" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Playwright.Dj Judge Sheet With Ac Scoring" />
+        <item itemvalue="Playwright.Level Selector Testsuite" />
+        <item itemvalue="Playwright.Acro Tariff Sheets Individuals" />
+        <item itemvalue="Playwright.Maximally changed compulsory test suite" />
+        <item itemvalue="Playwright.Balance Pairs.Seniors WP Balance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-WS-243.24978.60" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c51074d6-304c-4945-a40d-fec266d9e8a7" name="Changes" comment="" />
+      <created>1687148940541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687148940541</updated>
+      <workItem from="1687148941146" duration="324000" />
+      <workItem from="1687276902931" duration="3871000" />
+      <workItem from="1687362847520" duration="7603000" />
+      <workItem from="1687383518387" duration="4404000" />
+      <workItem from="1687391535912" duration="33079000" />
+      <workItem from="1687704071740" duration="974000" />
+      <workItem from="1687796808435" duration="1211000" />
+      <workItem from="1687820759321" duration="2033000" />
+      <workItem from="1688049090767" duration="183000" />
+      <workItem from="1688477304000" duration="596000" />
+      <workItem from="1689068125997" duration="622000" />
+      <workItem from="1689073469789" duration="592000" />
+      <workItem from="1689591494680" duration="391000" />
+      <workItem from="1689591971646" duration="594000" />
+      <workItem from="1689692108582" duration="595000" />
+      <workItem from="1689915821296" duration="2421000" />
+      <workItem from="1690218109959" duration="313000" />
+      <workItem from="1690261813165" duration="2417000" />
+      <workItem from="1690962016381" duration="2185000" />
+      <workItem from="1690972137724" duration="862000" />
+      <workItem from="1691569523892" duration="1454000" />
+      <workItem from="1692168435267" duration="769000" />
+      <workItem from="1692169371387" duration="4743000" />
+      <workItem from="1692702976930" duration="596000" />
+      <workItem from="1692707381078" duration="1949000" />
+      <workItem from="1693325428224" duration="27000" />
+      <workItem from="1693325672549" duration="591000" />
+      <workItem from="1693916672359" duration="18000" />
+      <workItem from="1693917711353" duration="204000" />
+      <workItem from="1693917969170" duration="594000" />
+      <workItem from="1693926128096" duration="416000" />
+      <workItem from="1694260057305" duration="1251000" />
+      <workItem from="1694276103690" duration="372000" />
+      <workItem from="1694509482166" duration="235000" />
+      <workItem from="1694519922887" duration="1000" />
+      <workItem from="1694521891696" duration="13000" />
+      <workItem from="1694525285609" duration="681000" />
+      <workItem from="1694528082395" duration="11000" />
+      <workItem from="1695712490209" duration="632000" />
+      <workItem from="1695713857905" duration="593000" />
+      <workItem from="1696329091655" duration="13373000" />
+      <workItem from="1696923199951" duration="8807000" />
+      <workItem from="1696937591312" duration="11615000" />
+      <workItem from="1697536293336" duration="6956000" />
+      <workItem from="1697554641162" duration="12165000" />
+      <workItem from="1699519396257" duration="243000" />
+      <workItem from="1699519664808" duration="17000" />
+      <workItem from="1699519691828" duration="3476000" />
+      <workItem from="1699528462979" duration="1479000" />
+      <workItem from="1699535383137" duration="5492000" />
+      <workItem from="1700565591524" duration="23000" />
+      <workItem from="1700565640056" duration="56000" />
+      <workItem from="1700566256331" duration="18983000" />
+      <workItem from="1701772454260" duration="9876000" />
+      <workItem from="1701971652218" duration="2366000" />
+      <workItem from="1701983202287" duration="47766000" />
+      <workItem from="1702975876951" duration="50000" />
+      <workItem from="1702976008657" duration="11914000" />
+      <workItem from="1705393641830" duration="911000" />
+      <workItem from="1705401062132" duration="310000" />
+      <workItem from="1705402389240" duration="14232000" />
+      <workItem from="1706012654291" duration="666000" />
+      <workItem from="1706018249556" duration="6330000" />
+      <workItem from="1707823669810" duration="2225000" />
+      <workItem from="1707825939920" duration="11724000" />
+      <workItem from="1708421952939" duration="5341000" />
+      <workItem from="1708428342149" duration="3223000" />
+      <workItem from="1708433876197" duration="10514000" />
+      <workItem from="1709023359577" duration="709000" />
+      <workItem from="1712046245488" duration="4610000" />
+      <workItem from="1712052463278" duration="39000" />
+      <workItem from="1712052513450" duration="8000" />
+      <workItem from="1712052614631" duration="30058000" />
+      <workItem from="1712989101876" duration="409000" />
+      <workItem from="1712989676279" duration="2142000" />
+      <workItem from="1713025333185" duration="20519000" />
+      <workItem from="1713372517955" duration="1260000" />
+      <workItem from="1713384916258" duration="2001000" />
+      <workItem from="1713432684881" duration="594000" />
+      <workItem from="1713445346173" duration="17000" />
+      <workItem from="1713445745946" duration="136000" />
+      <workItem from="1713445996769" duration="32060000" />
+      <workItem from="1713696778401" duration="38629000" />
+      <workItem from="1713878216867" duration="28571000" />
+      <workItem from="1714070317939" duration="1715000" />
+      <workItem from="1714072878955" duration="14135000" />
+      <workItem from="1714469216225" duration="767000" />
+      <workItem from="1714471125116" duration="18903000" />
+      <workItem from="1714973939354" duration="4667000" />
+      <workItem from="1715068612136" duration="7902000" />
+      <workItem from="1715156105091" duration="9108000" />
+      <workItem from="1715251004772" duration="10052000" />
+      <workItem from="1715319878531" duration="17000" />
+      <workItem from="1715319915200" duration="18332000" />
+      <workItem from="1715410393504" duration="23962000" />
+      <workItem from="1715505983972" duration="12902000" />
+      <workItem from="1715609752161" duration="4796000" />
+      <workItem from="1716280956144" duration="19286000" />
+      <workItem from="1716907325627" duration="1167000" />
+      <workItem from="1716910022526" duration="30441000" />
+      <workItem from="1717229131916" duration="11800000" />
+      <workItem from="1717312393701" duration="7128000" />
+      <workItem from="1717324544627" duration="20737000" />
+      <workItem from="1719680638068" duration="10156000" />
+      <workItem from="1719940351557" duration="15911000" />
+      <workItem from="1720167180731" duration="707000" />
+      <workItem from="1720259069174" duration="17522000" />
+      <workItem from="1720340164375" duration="104000" />
+      <workItem from="1720340313428" duration="367000" />
+      <workItem from="1720340832247" duration="22268000" />
+      <workItem from="1721380469285" duration="9587000" />
+      <workItem from="1721716029330" duration="24350000" />
+      <workItem from="1722933957613" duration="25491000" />
+      <workItem from="1723115017634" duration="9770000" />
+      <workItem from="1723127936667" duration="45123000" />
+      <workItem from="1723452573379" duration="56000" />
+      <workItem from="1723452647701" duration="36260000" />
+      <workItem from="1723805328074" duration="131735000" />
+      <workItem from="1725185625422" duration="43000" />
+      <workItem from="1725185706932" duration="113000" />
+      <workItem from="1725185949990" duration="8516000" />
+      <workItem from="1725300408876" duration="10934000" />
+      <workItem from="1725959165656" duration="10104000" />
+      <workItem from="1726047795507" duration="29889000" />
+      <workItem from="1726662057555" duration="11066000" />
+      <workItem from="1726821440398" duration="640000" />
+      <workItem from="1726823144558" duration="4302000" />
+      <workItem from="1726906852587" duration="16373000" />
+      <workItem from="1728390169621" duration="2012000" />
+      <workItem from="1728392320396" duration="19523000" />
+      <workItem from="1728632235484" duration="4404000" />
+      <workItem from="1728670309998" duration="122799000" />
+      <workItem from="1729413735888" duration="23128000" />
+      <workItem from="1729453007019" duration="3673000" />
+      <workItem from="1729584237009" duration="34987000" />
+      <workItem from="1729752414136" duration="42400000" />
+      <workItem from="1729894654337" duration="1964000" />
+      <workItem from="1729931189053" duration="126000" />
+      <workItem from="1729931359631" duration="35469000" />
+      <workItem from="1730212129237" duration="72934000" />
+      <workItem from="1730745246920" duration="15045000" />
+      <workItem from="1731280374392" duration="1570000" />
+      <workItem from="1731832264946" duration="5254000" />
+      <workItem from="1732387002235" duration="7253000" />
+      <workItem from="1734347516466" duration="68000" />
+      <workItem from="1734347623979" duration="1395000" />
+      <workItem from="1734387263415" duration="3225000" />
+      <workItem from="1734537340209" duration="7822000" />
+      <workItem from="1734629098493" duration="31828000" />
+      <workItem from="1735077930011" duration="14509000" />
+      <workItem from="1735153304201" duration="5081000" />
+      <workItem from="1735208830871" duration="37943000" />
+      <workItem from="1735556317417" duration="16086000" />
+      <workItem from="1735644477687" duration="40104000" />
+      <workItem from="1735735681782" duration="81579000" />
+      <workItem from="1736198114648" duration="295000" />
+      <workItem from="1736245188683" duration="8103000" />
+      <workItem from="1736276443506" duration="151000" />
+      <workItem from="1736276620776" duration="1140000" />
+      <workItem from="1736278457129" duration="11248000" />
+      <workItem from="1736356479650" duration="41081000" />
+      <workItem from="1736612826512" duration="34231000" />
+      <workItem from="1736709243361" duration="30002000" />
+      <workItem from="1736884018705" duration="710000" />
+      <workItem from="1736886935216" duration="4727000" />
+      <workItem from="1736926470073" duration="38417000" />
+      <workItem from="1737315915528" duration="10356000" />
+      <workItem from="1739974219737" duration="2495000" />
+      <workItem from="1739979541389" duration="739000" />
+      <workItem from="1739980340012" duration="8985000" />
+      <workItem from="1740060325275" duration="12352000" />
+      <workItem from="1740155951166" duration="35011000" />
+      <workItem from="1740334356408" duration="5642000" />
+      <workItem from="1740393916350" duration="9000" />
+      <workItem from="1740393940492" duration="130000" />
+      <workItem from="1740394949900" duration="323000" />
+      <workItem from="1740395286672" duration="15000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix for right config migration">
+      <created>1687277308343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687277308343</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix for right config migration">
+      <created>1687304800868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687304800868</updated>
+    </task>
+    <task id="LOCAL-00003" summary="revert to angular 15 to be able to run iOS 15">
+      <created>1687374744205</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687374744205</updated>
+    </task>
+    <task id="LOCAL-00004" summary="revert to angular 15 to be able to run iOS 15">
+      <created>1687375318184</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687375318184</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new ip for qira&#10;3 after comma for scores for xml">
+      <created>1687385272166</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687385272166</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change browserlist">
+      <created>1687392408875</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687392408875</updated>
+    </task>
+    <task id="LOCAL-00007" summary="revert downgrade">
+      <created>1687394822387</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687394822387</updated>
+    </task>
+    <task id="LOCAL-00008" summary="revert downgrade">
+      <created>1687395082738</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687395082738</updated>
+    </task>
+    <task id="LOCAL-00009" summary="revert downgrade">
+      <created>1687395129600</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687395129600</updated>
+    </task>
+    <task id="LOCAL-00010" summary="rhythmic cjp penalty should have 2 decimal places">
+      <created>1687463849367</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1687463849367</updated>
+    </task>
+    <task id="LOCAL-00011" summary="dirty re-add of difficulty subscores in xml">
+      <created>1687468157163</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1687468157163</updated>
+    </task>
+    <task id="LOCAL-00012" summary="temporarily augment difficulty value for USAG bonus points issue">
+      <created>1687477459532</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1687477459532</updated>
+    </task>
+    <task id="LOCAL-00013" summary="temporarily disable difficulty limit for USAG bonus points issue">
+      <created>1687477649277</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1687477649277</updated>
+    </task>
+    <task id="LOCAL-00014" summary="temporarily disable difficulty limit for USAG bonus points issue">
+      <created>1687477713001</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1687477713001</updated>
+    </task>
+    <task id="LOCAL-00015" summary="network disconnection not visible in scoring screens">
+      <created>1687482702033</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1687482702033</updated>
+    </task>
+    <task id="LOCAL-00016" summary="network disconnection not visible in scoring screens">
+      <created>1687482722894</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1687482722894</updated>
+    </task>
+    <task id="LOCAL-00017" summary="remove &amp; in xml because it crashes">
+      <created>1687540694477</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1687540694477</updated>
+    </task>
+    <task id="LOCAL-00018" summary="remove &amp; in xml because it crashes&#10;add gymnast information to dual panel judges">
+      <created>1687556793952</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1687556793952</updated>
+    </task>
+    <task id="LOCAL-00019" summary="remove &amp; in xml because it crashes&#10;add gymnast information to dual panel judges">
+      <created>1687556868273</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1687556868273</updated>
+    </task>
+    <task id="LOCAL-00020" summary="remove logos temporarily in overlay">
+      <created>1687569199573</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1687569199573</updated>
+    </task>
+    <task id="LOCAL-00021" summary="re-enable limits on d-score">
+      <created>1687704272090</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1687704272090</updated>
+    </task>
+    <task id="LOCAL-00022" summary="only select filtered if you've filtered">
+      <created>1687821640670</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1687821640670</updated>
+    </task>
+    <task id="LOCAL-00650" summary="extra firestore index">
+      <option name="closed" value="true" />
+      <created>1737200485534</created>
+      <option name="number" value="00650" />
+      <option name="presentableId" value="LOCAL-00650" />
+      <option name="project" value="LOCAL" />
+      <updated>1737200485534</updated>
+    </task>
+    <task id="LOCAL-00651" summary="go to be able to remove data version">
+      <option name="closed" value="true" />
+      <created>1737201993605</created>
+      <option name="number" value="00651" />
+      <option name="presentableId" value="LOCAL-00651" />
+      <option name="project" value="LOCAL" />
+      <updated>1737201993605</updated>
+    </task>
+    <task id="LOCAL-00652" summary="swallow generate auth token crash">
+      <option name="closed" value="true" />
+      <created>1737296361528</created>
+      <option name="number" value="00652" />
+      <option name="presentableId" value="LOCAL-00652" />
+      <option name="project" value="LOCAL" />
+      <updated>1737296361528</updated>
+    </task>
+    <task id="LOCAL-00653" summary="some updates">
+      <option name="closed" value="true" />
+      <created>1737301227077</created>
+      <option name="number" value="00653" />
+      <option name="presentableId" value="LOCAL-00653" />
+      <option name="project" value="LOCAL" />
+      <updated>1737301227077</updated>
+    </task>
+    <task id="LOCAL-00654" summary="fixes because of review feedback">
+      <option name="closed" value="true" />
+      <created>1737310383115</created>
+      <option name="number" value="00654" />
+      <option name="presentableId" value="LOCAL-00654" />
+      <option name="project" value="LOCAL" />
+      <updated>1737310383115</updated>
+    </task>
+    <task id="LOCAL-00655" summary="resolve merge conflicts">
+      <option name="closed" value="true" />
+      <created>1737310632218</created>
+      <option name="number" value="00655" />
+      <option name="presentableId" value="LOCAL-00655" />
+      <option name="project" value="LOCAL" />
+      <updated>1737310632218</updated>
+    </task>
+    <task id="LOCAL-00656" summary="fix feedback issues">
+      <option name="closed" value="true" />
+      <created>1737311875915</created>
+      <option name="number" value="00656" />
+      <option name="presentableId" value="LOCAL-00656" />
+      <option name="project" value="LOCAL" />
+      <updated>1737311875915</updated>
+    </task>
+    <task id="LOCAL-00657" summary="fix feedback issues">
+      <option name="closed" value="true" />
+      <created>1737312514404</created>
+      <option name="number" value="00657" />
+      <option name="presentableId" value="LOCAL-00657" />
+      <option name="project" value="LOCAL" />
+      <updated>1737312514404</updated>
+    </task>
+    <task id="LOCAL-00658" summary="proposal for different t&amp;t sheet types &amp; jumps">
+      <option name="closed" value="true" />
+      <created>1737319008720</created>
+      <option name="number" value="00658" />
+      <option name="presentableId" value="LOCAL-00658" />
+      <option name="project" value="LOCAL" />
+      <updated>1737319008721</updated>
+    </task>
+    <task id="LOCAL-00659" summary="video integration POC">
+      <option name="closed" value="true" />
+      <created>1740041325459</created>
+      <option name="number" value="00659" />
+      <option name="presentableId" value="LOCAL-00659" />
+      <option name="project" value="LOCAL" />
+      <updated>1740041325460</updated>
+    </task>
+    <task id="LOCAL-00660" summary="stripe comment fix">
+      <option name="closed" value="true" />
+      <created>1740041384383</created>
+      <option name="number" value="00660" />
+      <option name="presentableId" value="LOCAL-00660" />
+      <option name="project" value="LOCAL" />
+      <updated>1740041384383</updated>
+    </task>
+    <task id="LOCAL-00661" summary="comment out for now">
+      <option name="closed" value="true" />
+      <created>1740060562071</created>
+      <option name="number" value="00661" />
+      <option name="presentableId" value="LOCAL-00661" />
+      <option name="project" value="LOCAL" />
+      <updated>1740060562071</updated>
+    </task>
+    <task id="LOCAL-00662" summary="make conditional">
+      <option name="closed" value="true" />
+      <created>1740153063945</created>
+      <option name="number" value="00662" />
+      <option name="presentableId" value="LOCAL-00662" />
+      <option name="project" value="LOCAL" />
+      <updated>1740153063945</updated>
+    </task>
+    <task id="LOCAL-00663" summary="animatedflagcode">
+      <option name="closed" value="true" />
+      <created>1740236056899</created>
+      <option name="number" value="00663" />
+      <option name="presentableId" value="LOCAL-00663" />
+      <option name="project" value="LOCAL" />
+      <updated>1740236056899</updated>
+    </task>
+    <task id="LOCAL-00664" summary="upgrade of base folder packages">
+      <option name="closed" value="true" />
+      <created>1740324846930</created>
+      <option name="number" value="00664" />
+      <option name="presentableId" value="LOCAL-00664" />
+      <option name="project" value="LOCAL" />
+      <updated>1740324846931</updated>
+    </task>
+    <task id="LOCAL-00665" summary="all packages updates">
+      <option name="closed" value="true" />
+      <created>1740325863356</created>
+      <option name="number" value="00665" />
+      <option name="presentableId" value="LOCAL-00665" />
+      <option name="project" value="LOCAL" />
+      <updated>1740325863356</updated>
+    </task>
+    <task id="LOCAL-00666" summary="merge master">
+      <option name="closed" value="true" />
+      <created>1740326398159</created>
+      <option name="number" value="00666" />
+      <option name="presentableId" value="LOCAL-00666" />
+      <option name="project" value="LOCAL" />
+      <updated>1740326398159</updated>
+    </task>
+    <task id="LOCAL-00667" summary="merge updates">
+      <option name="closed" value="true" />
+      <created>1740326474254</created>
+      <option name="number" value="00667" />
+      <option name="presentableId" value="LOCAL-00667" />
+      <option name="project" value="LOCAL" />
+      <updated>1740326474254</updated>
+    </task>
+    <task id="LOCAL-00668" summary="merge updates">
+      <option name="closed" value="true" />
+      <created>1740326559832</created>
+      <option name="number" value="00668" />
+      <option name="presentableId" value="LOCAL-00668" />
+      <option name="project" value="LOCAL" />
+      <updated>1740326559832</updated>
+    </task>
+    <task id="LOCAL-00669" summary="get the issue by running npm run t">
+      <option name="closed" value="true" />
+      <created>1740328370103</created>
+      <option name="number" value="00669" />
+      <option name="presentableId" value="LOCAL-00669" />
+      <option name="project" value="LOCAL" />
+      <updated>1740328370103</updated>
+    </task>
+    <task id="LOCAL-00670" summary="clear out everything I can">
+      <option name="closed" value="true" />
+      <created>1740333723727</created>
+      <option name="number" value="00670" />
+      <option name="presentableId" value="LOCAL-00670" />
+      <option name="project" value="LOCAL" />
+      <updated>1740333723727</updated>
+    </task>
+    <task id="LOCAL-00671" summary="further stripdown">
+      <option name="closed" value="true" />
+      <created>1740351987129</created>
+      <option name="number" value="00671" />
+      <option name="presentableId" value="LOCAL-00671" />
+      <option name="project" value="LOCAL" />
+      <updated>1740351987130</updated>
+    </task>
+    <task id="LOCAL-00672" summary="further stripdown">
+      <option name="closed" value="true" />
+      <created>1740352473761</created>
+      <option name="number" value="00672" />
+      <option name="presentableId" value="LOCAL-00672" />
+      <option name="project" value="LOCAL" />
+      <updated>1740352473761</updated>
+    </task>
+    <task id="LOCAL-00673" summary="further stripdown">
+      <option name="closed" value="true" />
+      <created>1740392570903</created>
+      <option name="number" value="00673" />
+      <option name="presentableId" value="LOCAL-00673" />
+      <option name="project" value="LOCAL" />
+      <updated>1740392570905</updated>
+    </task>
+    <task id="LOCAL-00674" summary="further stripdown">
+      <option name="closed" value="true" />
+      <created>1740392635850</created>
+      <option name="number" value="00674" />
+      <option name="presentableId" value="LOCAL-00674" />
+      <option name="project" value="LOCAL" />
+      <updated>1740392635850</updated>
+    </task>
+    <task id="LOCAL-00675" summary="further stripdown">
+      <option name="closed" value="true" />
+      <created>1740392831518</created>
+      <option name="number" value="00675" />
+      <option name="presentableId" value="LOCAL-00675" />
+      <option name="project" value="LOCAL" />
+      <updated>1740392831518</updated>
+    </task>
+    <task id="LOCAL-00676" summary="further stripdown">
+      <option name="closed" value="true" />
+      <created>1740393055356</created>
+      <option name="number" value="00676" />
+      <option name="presentableId" value="LOCAL-00676" />
+      <option name="project" value="LOCAL" />
+      <updated>1740393055356</updated>
+    </task>
+    <option name="localTasksCounter" value="677" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="javascript:npm:prettier" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:nx" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:pug" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:@angular/core" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="GitHub.CommitStatus" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="an_puppeteer_pdf_judge_panels_print" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="lb_use_competition_key" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="Nikoloz Bregvadze" />
+                  <option value="nikibreg" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="Nikoloz Bregvadze" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="NgAnis" />
+                  <option value="Nole Anis" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="farouk797" />
+                  <option value="faroukmhamdi75" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="Filipe Mota" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="Garcia" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="Tiago" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="Tiago Garcia" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="Diogo Lopes" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="tumbling add extra properties during creation" />
+    <MESSAGE value="additional index" />
+    <MESSAGE value="upgrade angular to 19.1.0" />
+    <MESSAGE value="upgrade angular to 19.1.1" />
+    <MESSAGE value="upgrade angular material to 19.1.0" />
+    <MESSAGE value="extra firestore index" />
+    <MESSAGE value="go to be able to remove data version" />
+    <MESSAGE value="swallow generate auth token crash" />
+    <MESSAGE value="some updates" />
+    <MESSAGE value="fixes because of review feedback" />
+    <MESSAGE value="resolve merge conflicts" />
+    <MESSAGE value="fix feedback issues" />
+    <MESSAGE value="proposal for different t&amp;t sheet types &amp; jumps" />
+    <MESSAGE value="video integration POC" />
+    <MESSAGE value="stripe comment fix" />
+    <MESSAGE value="comment out for now" />
+    <MESSAGE value="make conditional" />
+    <MESSAGE value="animatedflagcode" />
+    <MESSAGE value="upgrade of base folder packages" />
+    <MESSAGE value="all packages updates" />
+    <MESSAGE value="merge master" />
+    <MESSAGE value="merge updates" />
+    <MESSAGE value="get the issue by running npm run t" />
+    <MESSAGE value="clear out everything I can" />
+    <MESSAGE value="further stripdown" />
+    <option name="LAST_COMMIT_MESSAGE" value="further stripdown" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/e2e-testing/playwright-test-testsuites/live-ranking-tests/live-ranking-desktop-testsuite.spec.ts</url>
+          <line>617</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/organisation-admin/organisation-administration/membership-registrations/membership-registrations-review-files/membership-registrations-review-files.component.ts</url>
+          <line>666</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/organisation-admin/organisation-administration/membership-registrations/membership-registrations-review-files/membership-registrations-review-files.component.ts</url>
+          <line>703</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/core/guards/update-in-progress-guard.ts</url>
+          <line>41</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/organisation-admin/organisation-administration/competition-administration/acro-competition-administration/acro-competition-administration.component.ts</url>
+          <line>553</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/e2e-testing/test-helpers/online-competitions/live-competition-test-helper.ts</url>
+          <line>64</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/e2e-testing/test-helpers/online-competitions/live-competition-test-helper.ts</url>
+          <line>457</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/e2e-testing/playwright-test-testsuites/membership-registrations-tests/membership-registrations-import-acro-auto-numbering-testsuite.spec.ts</url>
+          <line>481</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/e2e-testing/playwright-test-testsuites/membership-registrations-tests/membership-registrations-import-acro-auto-numbering-testsuite.spec.ts</url>
+          <line>307</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/e2e-testing/playwright-test-testsuites/acro-competition-sheet-flow-tests/acro-competition-sheet-overview-testsuite.spec.ts</url>
+          <line>119</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/e2e-testing/test-helpers/org-admin/sheet-information-test-helper.ts</url>
+          <line>30</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/shared/services/programs/program-acro.model.ts</url>
+          <line>388</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

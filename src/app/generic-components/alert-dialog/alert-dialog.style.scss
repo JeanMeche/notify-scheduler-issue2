@@ -1,0 +1,51 @@
+//@use 'src/assets/css/settings.scss';
+
+:host {
+  // @HostBinding classes weren't applied in some error cases
+  // we opted to add the classes 'hardcoded' (https://dev.azure.com/acro-companion/acro-companion/_workitems/edit/5603)
+  // medium-width-dialog
+  width: min(800px, 98vw);
+  height: auto;
+  max-height: min(1000px, 98vh);
+
+  // default-dialog-container
+  padding: 16px 0px;
+  font-size: 14px;
+
+  display: flex;
+  flex-direction: column;
+}
+#alert-dialog-title-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 15px;
+
+  mat-icon {
+    transform: scale(1.2);
+    margin-right: 8px;
+    //color: settings.$black-color;
+  }
+
+  h3 {
+    margin: 0;
+  }
+}
+
+#message-container {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  flex-grow: 1;
+}
+p {
+  //color: settings.$black-color;
+  margin-top: 0px;
+}
+
+.add-overflow.error-details {
+  max-height: calc(100vh - 320px);
+  min-height: 100px;
+  overflow-wrap: break-word;
+}
