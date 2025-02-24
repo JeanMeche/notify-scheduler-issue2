@@ -5,8 +5,8 @@ import { UntilDestroy } from '@ngneat/until-destroy';
 @Component({
   changeDetection: ChangeDetectionStrategy.OnPush,
   selector: 'app-root',
-  styleUrls: ['app.style.scss'],
   template: ``,
-  imports: [],
 })
-export class AppComponent {}
+export class AppComponent {
+
+}

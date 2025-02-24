@@ -4,7 +4,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "t": "node ./node_modules/@angular/cli/bin/ng serve --configuration env-t --host 0.0.0.0"
+    "start": "ng dev"
   },
   "backup-scripts": {},
   "private": true,
